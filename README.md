@@ -13,6 +13,7 @@ Developer push → GitHub Actions (test → build → push image)
                                       ↓
                 Terraform-provisioned AWS EC2 (pulls & runs container)
 ```
+![Architecture Diagram](architecture-diagram.png)
 
 ## Tech Stack
 

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DevOps Portfolio Project 1 — Task API with Full CI/CD & IaC
 
 A small task-management REST API used to demonstrate an end-to-end DevOps workflow:
@@ -104,3 +105,7 @@ terraform destroy
 This project is intentionally scoped small so the full pipeline (test → containerize →
 CI/CD → cloud provisioning) is easy to read end-to-end — it's built as a portfolio piece
 to demonstrate the workflow, not a production system with a full monitoring/logging stack.
+=======
+# devops-cicd-terraform-demo
+End-to-end DevOps demo: Node.js API containerized with Docker, deployed via GitHub Actions CI/CD, with AWS infrastructure provisioned using Terraform.
+>>>>>>> a825616404a7dcf8a5bdccfcab87fd63745e676a

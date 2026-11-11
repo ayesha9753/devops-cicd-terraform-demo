@@ -1,5 +1,8 @@
 # DevOps Portfolio Project 1 — Task API with Full CI/CD & IaC
 
+![Implementation](implementation.svg)
+
+
 A small task-management REST API used to demonstrate an end-to-end DevOps workflow:
 containerization, automated CI/CD, and infrastructure-as-code deployment to AWS.
 
